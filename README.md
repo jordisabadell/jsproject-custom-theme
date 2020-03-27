@@ -1,1 +1,1 @@
-# jsproject-theme
+# jsproject-custom-theme
