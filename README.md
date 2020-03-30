@@ -5,8 +5,8 @@ https://www.jordisabadell.com
 ## Challanges
 This repository has been created from the following challenges.
 
-[ ] Create a Wordress Child Theme.
-[ ] Build it using SASS.
+- [x] Create a Wordress Child Theme.
+- [x] Build it using SASS.
 
 ---
 
