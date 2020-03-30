@@ -1,0 +1,42 @@
+/* Colors ---------------------------------- */
+
+//background
+$color-background: #F5F5F5; //#f5efe0 groc clar
+
+//primary
+$color-primary: #463C32; //#000 negre
+
+//secondary (entry-content, comments, pagination, widget)
+$color-secondary: #463C32; //#6d6d6d gris
+
+//contrast --> anchor, blockquote, buttons
+$color-contrast: #DB322A; //#cd2653 rosa
+
+//border color hr, pre, fieldset, input and textarea border, etc.
+$color-aux1: #DDDDDD; //#dcd7ca groc-gris 
+
+//border color menu-modal, button, widget table, etc.
+$color-aux2: #A8A19B; //#ddf7f7 blau-clar
+
+//background inputs, menu-modal
+$color-aux3: #fff;
+
+//screen reader class (https://rianrietveld.com/2015/04/the-screen-reader-text-class-why-and-how/)
+$color-screen-reader-1: #21759b;
+$color-screen-reader-2: #f1f1f1;
+
+
+/* Fonts ---------------------------------- */
+$font-family: "Source Sans Pro", sans-serif;
+
+$font-family-normal-name: "Source Sans Pro";
+$font-family-normal-weight: 400 900;
+$font-family-normal-style: normal;
+$font-family-normal-display: swap;
+$font-family-normal-src: "./assets/fonts/sans/source-sans-pro-v13-latin-regular.woff2";
+
+$font-family-italic-name: "Source Sans Pro";
+$font-family-italic-weight: 400 900;
+$font-family-italic-style: italic;
+$font-family-italic-display: swap;
+$font-family-italic-src: "./assets/fonts/sans/source-sans-pro-v13-latin-italic.woff2";

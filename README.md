@@ -1,5 +1,17 @@
-# jsproject-custom-theme
+## Wordpress Custom Themes
+**A plugin of JS Project** :rocket:  
+https://www.jordisabadell.com
 
-- Referència Wordpress Themes https://developer.wordpress.org/themes/
-- Informació sobre Wordpress Child Themes https://kinsta.com/blog/wordpress-child-theme/
-- Informació sobre Twenty Twenty incloent Child Theme https://kinsta.com/blog/twenty-twenty-theme/
+## Challanges
+This repository has been created from the following challenges.
+
+[ ] Create a Wordress Child Theme.
+[ ] Build it using SASS.
+
+---
+
+## Twenty Twenty Child Theme
+- Original documentation of Twenty Twenty: https://wordpress.org/themes/twentytwenty/
+- Twenty Twenty introduction https://kinsta.com/blog/twenty-twenty-theme/
+- Guide that I has followed to create a custom Child Theme https://kinsta.com/blog/wordpress-child-theme/
+- Guide that I has followed to automatic build it with Gulp https://goede.site/setting-up-gulp-4-for-automatic-sass-compilation-and-css-injection
