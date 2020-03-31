@@ -9,11 +9,17 @@ This repository has been created from the following challenges.
 - [x] Build it using SASS.
 
 ---
+<<<<<<< HEAD
 
 ## Twenty Nineteen Child Theme
 
 
 ## Twenty Twenty Child Theme
+=======
+## Documentation
+- Wordpress Theme Handbook https://developer.wordpress.org/themes/
+- WP Template hierarchy (interactive diagram) https://wphierarchy.com/
+>>>>>>> d95fc7adbe9a03242459a27bd8cd7e21c9384d1f
 - Original documentation of Twenty Twenty: https://wordpress.org/themes/twentytwenty/
 - Twenty Twenty introduction https://kinsta.com/blog/twenty-twenty-theme/
 - Guide that I has followed to create a custom Child Theme https://kinsta.com/blog/wordpress-child-theme/
