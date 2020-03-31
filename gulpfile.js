@@ -9,8 +9,8 @@ var gulp = require("gulp"),
 // Put this after including our dependencies
 var paths = {
     styles: {
-        src: "./twentytwenty-child/sass/*.scss",
-        dest: "./twentytwenty-child/"
+        src: "./sass/*.scss",
+        dest: "./"
     }
 };
 
@@ -29,7 +29,7 @@ function build() {
 exports.build = build;
 
 function watch(){
-    gulp.watch('./twentytwenty-child/sass/*.scss', build)
+    gulp.watch('./sass/*.scss', build)
 }
     
 exports.watch = watch;
